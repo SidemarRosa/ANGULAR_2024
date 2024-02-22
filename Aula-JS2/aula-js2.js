@@ -9,8 +9,8 @@ if (numeroPar) {
     console.log("Não é Par");
 }*/
 //condicional booleana
-const numero = ;
-const numeroDivisivelPor5 = (numero % 5) === 0;
+const numero = 10;
+const numeroDivisivelPor5 = numero % 5 === 0;
 console.log(numeroDivisivelPor5);
 
 //Else IF
